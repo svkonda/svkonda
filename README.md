@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svkonda
+- 👋 Hi, I’m Srihari you can call me Hari
 - 👀 I’m interested in Data and Value that it can bring to a business bottom line
 - 🌱 I’m currently learning Streamlit and depploying a Py app
 - 💞️ I’m looking to collaborate on ...
